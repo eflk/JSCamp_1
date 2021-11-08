@@ -67,7 +67,7 @@ console.log(sum(10,20,30))
 //Spread operator
 
 let numbers = [10,20,40]
-    //how array give as parameter to sum function if gets inputs as function params...
+    //how array give as parameter to the sum function if gets inputs as function params...
     //We need to use spread operator for this.
     // If you put 3 dot left side of the array variable the array will be spread as function param
 console.log(...numbers)
